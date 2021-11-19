@@ -1,0 +1,74 @@
+[
+    {
+        "id": "Hand",
+        "name": {
+            "ja-jp": "手"
+        },
+        "icon": "Hand.png",
+        "powerConsumption": 0
+    },
+    {
+        "id": "Miner Mk1",
+        "name": {
+            "ja-jp": "Miner Mk1"
+        },
+        "icon": "MinerMk1.png",
+        "powerConsumption": 5
+    },
+    {
+        "id": "Smelter",
+        "name": {
+            "ja-jp": "製錬炉"
+        },
+        "icon": "Smelter.png",
+        "powerConsumption": 4
+    },
+    {
+        "id": "Foundry",
+        "name": {
+            "ja-jp": "鋳造炉"
+        },
+        "icon": "Foundry.png",
+        "powerConsumption": 16
+    },
+    {
+        "id": "Constructor",
+        "name": {
+            "ja-jp": "製作機"
+        },
+        "icon": "Constructor.png",
+        "powerConsumption": 4
+    },
+    {
+        "id": "Assembler",
+        "name": {
+            "ja-jp": "組立機"
+        },
+        "icon": "Assembler.png",
+        "powerConsumption": 15
+    },
+    {
+        "id": "Manufacturer",
+        "name": {
+            "ja-jp": "製造機"
+        },
+        "icon": "Manufacturer.png",
+        "powerConsumption": 55
+    },
+    {
+        "id": "Oil Pump",
+        "name": {
+            "ja-jp": "原油ポンプ"
+        },
+        "icon": "OilPump.png",
+        "powerConsumption": 40
+    },
+    {
+        "id": "Oil Refinery",
+        "name": {
+            "ja-jp": "精油施設"
+        },
+        "icon": "OilRefinery.png",
+        "powerConsumption": 50
+    }
+]

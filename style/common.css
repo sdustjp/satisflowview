@@ -1,0 +1,52 @@
+
+#rawMaterials {
+    border: blue solid 1px;
+}
+
+.rawMaterialsList {
+    display: flex;
+    flex-flow: column;
+    border: blue solid 1px;
+}
+
+.rawMaterialNode {
+    display: flex;
+    flex-flow: row nowrap;
+    border: blue solid 1px;
+}
+
+.materialsSmall {
+    font-size: 10px;
+    color: blue;
+}
+
+.productsSmall {
+    font-size: 10px;
+    color: red;
+}
+
+#products {
+    border: red solid 1px;
+}
+
+.productsList {
+    display: flex;
+    flex-flow: column;
+    border: red solid 1px;
+}
+
+.productNode {
+    display: flex;
+    flex-flow: row nowrap;
+    border: red solid 1px;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}

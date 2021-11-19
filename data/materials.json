@@ -1,0 +1,662 @@
+[
+    {
+        "category": "resource",
+        "id": "Iron Ore",
+        "name": {
+            "ja-jp": "鉄鉱石"
+        },
+        "icon": "o_iron.jpg",
+        "handmadeTime": 0,
+        "craftingTime": 1,
+        "rawMaterials": [],
+        "products": [],
+        "productEquipment": "Miner Mk1",
+        "productCount": 1
+    },
+    {
+        "category": "resource",
+        "id": "Copper Ore",
+        "name": {
+            "ja-jp": "銅の鉱石"
+        },
+        "icon": "o_copper.jpg",
+        "handmadeTime": 0,
+        "craftingTime": 1,
+        "rawMaterials": [],
+        "products": [],
+        "productEquipment": "Miner Mk1",
+        "productCount": 1
+    },
+    {
+        "category": "resource",
+        "id": "Limestone",
+        "name": {
+            "ja-jp": "石灰岩"
+        },
+        "icon": "o_limestone.jpg",
+        "handmadeTime": 0,
+        "craftingTime": 1,
+        "rawMaterials": [],
+        "products": [],
+        "productEquipment": "Miner Mk1",
+        "productCount": 1
+    },
+    {
+        "category": "resource",
+        "id": "Caterium Ore",
+        "name": {
+            "ja-jp": "カテリウムの鉱石"
+        },
+        "icon": "o_caterium.jpg",
+        "handmadeTime": 0,
+        "craftingTime": 1,
+        "rawMaterials": [],
+        "products": [],
+        "productEquipment": "Miner Mk1",
+        "productCount": 1
+    },
+    {
+        "category": "resource",
+        "id": "Coal",
+        "name": {
+            "ja-jp": "石炭"
+        },
+        "icon": "o_coal.jpg",
+        "handmadeTime": 0,
+        "craftingTime": 1,
+        "rawMaterials": [],
+        "products": [],
+        "productEquipment": "Miner Mk1",
+        "productCount": 1
+    },
+    {
+        "category": "resource",
+        "id": "Crude Oil",
+        "name": {
+            "ja-jp": "原油"
+        },
+        "icon": "o_crude_oil.jpg",
+        "handmadeTime": 0,
+        "craftingTime": 0.5,
+        "rawMaterials": [],
+        "products": [],
+        "productEquipment": "Oil Pump",
+        "productCount": 1
+    },
+    {
+        "category": "resource",
+        "id": "Leaves",
+        "name": {
+            "ja-jp": "葉"
+        },
+        "icon": "m_leaves.jpg",
+        "handmadeTime": 0,
+        "craftingTime": 0,
+        "rawMaterials": [],
+        "products": [],
+        "productEquipment": "Hand",
+        "productCount": 1
+    },
+    {
+        "category": "resource",
+        "id": "Wood",
+        "name": {
+            "ja-jp": "木"
+        },
+        "icon": "m_wood.jpg",
+        "handmadeTime": 0,
+        "craftingTime": 0,
+        "rawMaterials": [],
+        "products": [],
+        "productEquipment": "Hand",
+        "productCount": 1
+    },
+    {
+        "category": "resource",
+        "id": "Flower Petals",
+        "name": {
+            "ja-jp": "花弁"
+        },
+        "icon": "FlowerPetals.jpg",
+        "handmadeTime": 0,
+        "craftingTime": 0,
+        "rawMaterials": [],
+        "products": [],
+        "productEquipment": "Hand",
+        "productCount": 1
+    },
+    {
+        "category": "resource",
+        "id": "Alien Carapace",
+        "name": {
+            "ja-jp": "異星生物甲殻"
+        },
+        "icon": "m_carapace.jpg",
+        "handmadeTime": 0,
+        "craftingTime": 0,
+        "rawMaterials": [],
+        "products": [],
+        "productEquipment": "Hand",
+        "productCount": 1
+    },
+    {
+        "category": "resource",
+        "id": "Green Power Slug",
+        "name": {
+            "ja-jp": "緑のパワー・スラッグ"
+        },
+        "icon": ".jpg",
+        "handmadeTime": 0,
+        "craftingTime": 0,
+        "rawMaterials": [],
+        "products": [],
+        "productEquipment": "Hand",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Iron Ingot",
+        "name": {
+            "ja-jp": "鉄のインゴット"
+        },
+        "icon": "r_iron_ingot.jpg",
+        "handmadeTime": 2,
+        "craftingTime": 2,
+        "rawMaterials": [
+            {"id": "Iron Ore", "count": 1}
+        ],
+        "products": [],
+        "productEquipment": "Smelter",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Iron Plate",
+        "name": {
+            "ja-jp": "鉄板"
+        },
+        "icon": "r_iron_plate.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Iron Ingot", "count": 2}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Iron Rod",
+        "name": {
+            "ja-jp": "鉄のロッド"
+        },
+        "icon": "r_iron_rod.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Iron Ingot", "count": 1}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Copper Ingot",
+        "name": {
+            "ja-jp": "銅のインゴット"
+        },
+        "icon": "r_copper_ingot.jpg",
+        "handmadeTime": 2,
+        "craftingTime": 2,
+        "rawMaterials": [
+            {"id": "Copper Ore", "count": 1}
+        ],
+        "products": [],
+        "productEquipment": "Smelter",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Wire",
+        "name": {
+            "ja-jp": "ワイヤー"
+        },
+        "icon": "r_wire.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Copper Ingot", "count": 1}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 3
+    },
+    {
+        "category": "material",
+        "id": "Cable",
+        "name": {
+            "ja-jp": "ケーブル"
+        },
+        "icon": "r_cable.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Wire", "count": 2}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Biomass",
+        "name": {
+            "ja-jp": "バイオマス"
+        },
+        "icon": "r_biomass.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Leaves", "count": 10}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 6
+    },
+    {
+        "category": "material",
+        "id": "Biomass (Leaves)",
+        "name": {
+            "ja-jp": "バイオマス(葉)"
+        },
+        "icon": "r_biomass.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Leaves", "count": 10}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 6
+    },
+    {
+        "category": "material",
+        "id": "Concrete",
+        "name": {
+            "ja-jp": "コンクリート"
+        },
+        "icon": "r_concrete.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Limestone", "count": 3}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Screw",
+        "name": {
+            "ja-jp": "ネジ"
+        },
+        "icon": "r_screw.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Iron Rod", "count": 1}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 6
+    },
+    {
+        "category": "material",
+        "id": "Reinforced Iron Plate",
+        "name": {
+            "ja-jp": "強化鉄板"
+        },
+        "icon": "r_reinforced_iron_plate.jpg",
+        "handmadeTime": 3,
+        "craftingTime": 12,
+        "rawMaterials": [
+            {"id": "Iron Plate", "count": 4},
+            {"id": "Screw", "count": 24}
+        ],
+        "products": [],
+        "productEquipment": "Assembler",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Biomass (Wood)",
+        "name": {
+            "ja-jp": "バイオマス(木)"
+        },
+        "icon": "r_biomass.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Wood", "count": 5}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 25
+    },
+    {
+        "category": "material",
+        "id": "Biofuel",
+        "name": {
+            "ja-jp": "バイオ燃料"
+        },
+        "icon": "r_bio_fuel.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Biomass", "count": 4}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 2
+    },
+    {
+        "category": "material",
+        "id": "Rotor",
+        "name": {
+            "ja-jp": "ローター"
+        },
+        "icon": "r_rotor.jpg",
+        "handmadeTime": 3,
+        "craftingTime": 10,
+        "rawMaterials": [
+            {"id": "Iron Rod", "count": 3},
+            {"id": "Screw", "count": 22}
+        ],
+        "products": [],
+        "productEquipment": "Assembler",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Modular Frame",
+        "name": {
+            "ja-jp": "モジュラーフレーム"
+        },
+        "icon": "r_modular_frame.jpg",
+        "handmadeTime": 4,
+        "craftingTime": 15,
+        "rawMaterials": [
+            {"id": "Reinforced Iron Plate", "count": 3},
+            {"id": "Iron Rod", "count": 6}
+        ],
+        "products": [],
+        "productEquipment": "Assembler",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Power Shard (1)",
+        "name": {
+            "ja-jp": "パワーシャード (1)"
+        },
+        "icon": "r_power_shard.jpg",
+        "handmadeTime": 3,
+        "craftingTime": 10,
+        "rawMaterials": [
+            {"id": "Green Power Slug", "count": 1}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Color Cartridge",
+        "name": {
+            "ja-jp": "カラー弾薬"
+        },
+        "icon": "r_color_cartridge.jpg",
+        "handmadeTime": 10,
+        "craftingTime": 40,
+        "rawMaterials": [
+            {"id": "Flower Petals", "count": 25}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 50
+    },
+    {
+        "category": "material",
+        "id": "Spiked Rebar",
+        "name": {
+            "ja-jp": "断裂鉄筋"
+        },
+        "icon": "r_spiked_rebar.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Iron Rod", "count": 1}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Biomass (Alien Carapace)",
+        "name": {
+            "ja-jp": "バイオマス(異星生物甲殻)"
+        },
+        "icon": "r_biomass.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Alien Carapace", "count": 1}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 100
+    },
+    {
+        "category": "material",
+        "id": "Caterium Ingot",
+        "name": {
+            "ja-jp": "カテリウムのインゴット"
+        },
+        "icon": "r_caterium_ingot.jpg",
+        "handmadeTime": 4,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Caterium Ore", "count": 4}
+        ],
+        "products": [],
+        "productEquipment": "Smelter",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Quickwire",
+        "name": {
+            "ja-jp": "クイックワイヤー"
+        },
+        "icon": "r_quickwire.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Caterium Ingot", "count": 1}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 4
+    },
+    {
+        "category": "material",
+        "id": "Steel Ingot",
+        "name": {
+            "ja-jp": "鋼のインゴット"
+        },
+        "icon": "r_steel_ingot.jpg",
+        "handmadeTime": 0,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Iron Ore", "count": 3},
+            {"id": "Coal", "count": 3}
+        ],
+        "products": [],
+        "productEquipment": "Foundry",
+        "productCount": 2
+    },
+    {
+        "category": "material",
+        "id": "Steel Beam",
+        "name": {
+            "ja-jp": "Steel Beam"
+        },
+        "icon": "r_steel_beam.jpg",
+        "handmadeTime": 2,
+        "craftingTime": 6,
+        "rawMaterials": [
+            {"id": "Steel Ingot", "count": 3}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Steel Pipe",
+        "name": {
+            "ja-jp": "鋼のパイプ"
+        },
+        "icon": "r_steel_pipe.jpg",
+        "handmadeTime": 1,
+        "craftingTime": 4,
+        "rawMaterials": [
+            {"id": "Steel Ingot", "count": 1}
+        ],
+        "products": [],
+        "productEquipment": "Constructor",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Encased Industrial Beam",
+        "name": {
+            "ja-jp": "Encased Industrial Beam"
+        },
+        "icon": "r_encased_industrial_beam.jpg",
+        "handmadeTime": 4,
+        "craftingTime": 15,
+        "rawMaterials": [
+            {"id": "Steel Beam", "count": 4},
+            {"id": "Concrete", "count": 5}
+        ],
+        "products": [],
+        "productEquipment": "Assembler",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Stator",
+        "name": {
+            "ja-jp": "固定子"
+        },
+        "icon": "r_stator.jpg",
+        "handmadeTime": 3,
+        "craftingTime": 10,
+        "rawMaterials": [
+            {"id": "Steel Pipe", "count": 3},
+            {"id": "Wire", "count": 10}
+        ],
+        "products": [],
+        "productEquipment": "Assembler",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Motor",
+        "name": {
+            "ja-jp": "モーター"
+        },
+        "icon": "r_motor.jpg",
+        "handmadeTime": 3,
+        "craftingTime": 12,
+        "rawMaterials": [
+            {"id": "Rotor", "count": 2},
+            {"id": "Stator", "count": 2}
+        ],
+        "products": [],
+        "productEquipment": "Assembler",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Heavy Modular Frame",
+        "name": {
+            "ja-jp": "ヘビー・モジュラー・フレーム"
+        },
+        "icon": "r_heavy_modular_frame.jpg",
+        "handmadeTime": 8,
+        "craftingTime": 1,
+        "rawMaterials": [
+            {"id": "Modular Frame", "count": 5},
+            {"id": "Steel Pipe", "count": 15},
+            {"id": "Encased Industrial Beam", "count": 5},
+            {"id": "Screw", "count": 90}
+        ],
+        "products": [],
+        "productEquipment": "Manufacturer",
+        "productCount": 1
+    },
+    {
+        "category": "material",
+        "id": "Plastic",
+        "name": {
+            "ja-jp": "プラスチック"
+        },
+        "icon": "r_plastic.jpg",
+        "handmadeTime": 2,
+        "craftingTime": 8,
+        "rawMaterials": [
+            {"id": "Crude Oil", "count": 4}
+        ],
+        "products": [],
+        "productEquipment": "Oil Refinery",
+        "productCount": 3
+    },
+    {
+        "category": "material",
+        "id": "Fuel",
+        "name": {
+            "ja-jp": "燃料"
+        },
+        "icon": "r_fuel.jpg",
+        "handmadeTime": 2,
+        "craftingTime": 8,
+        "rawMaterials": [
+            {"id": "Crude Oil", "count": 8}
+        ],
+        "products": [],
+        "productEquipment": "Oil Refinery",
+        "productCount": 5
+    },
+    {
+        "category": "material",
+        "id": "Rubber",
+        "name": {
+            "ja-jp": "ゴム"
+        },
+        "icon": "r_rubber.jpg",
+        "handmadeTime": 2,
+        "craftingTime": 8,
+        "rawMaterials": [
+            {"id": "Crude Oil", "count": 4}
+        ],
+        "products": [],
+        "productEquipment": "Oil Refinery",
+        "productCount": 4
+    }
+]

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style/common.css">
+  <script src="script/jquery-3.3.1.min.js"></script>
+  <script src="script/common.js"></script>
+  <title>Document</title>
+</head>
+<body>
+  <h1>Satisfactory 素材生産ツリー</h1>
+  <select id="selectLanguage"><option value="en-us">English</option><option value="ja-jp">日本語</option></select>
+  <select id="selectTargetMaterial"><option value="none">(please select)</option></select>
+  <input id="equipmentCount" value="1">
+  <div id="materials" style="display: flex; flex-flow: row wrap;">
+  </div>
+  <div style="display: flex;">
+    <div id="rawMaterials">
+      <h1>原材料</h1>
+      <div class="rawMaterialsList"></div>
+    </div>
+    <div id="targetMaterialInfo">
+      <h1>(please select)</h1>
+    </div>
+    <div id="products">
+      <h1>生産物</h1>
+      <div class="productsList"></div>
+    </div>
+  </div>
+</body>
+</html>

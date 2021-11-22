@@ -1,0 +1,42 @@
+{
+	"Materials/Iron Ore": {
+		"en-us": "Iron Ore",
+		"ja-jp": "鉄鉱石"
+	},
+	"Materials/Copper Ore": {
+		"en-us": "Copper Ore",
+		"ja-jp": "銅の鉱石"
+	},
+	"Materials/Limestone": {
+		"en-us": "Limestone",
+		"ja-jp": "石灰岩"
+	},
+	"Materials/Caterium Ore": {
+		"en-us": "Caterium Ore",
+		"ja-jp": "カテリウムの鉱石"
+	},
+	"Materials/Coal": {
+		"en-us": "Coal",
+		"ja-jp": "石炭"
+	},
+	"Materials/Iron Ingot": {
+		"en-us": "Iron Ingot",
+		"ja-jp": "鉄のインゴット"
+	},
+	"Materials/Iron Plate": {
+		"en-us": "Iron Plate",
+		"ja-jp": "鉄板"
+	},
+	"Equipments/Miner": {
+		"en-us": "Miner",
+		"ja-jp": "採鉱機"
+	},
+	"Equipments/Miner Mk.1": {
+		"en-us": "Miner Mk.1",
+		"ja-jp": "採鉱機 Mk.1"
+	},
+	"Units/perMinutes": {
+		"en-us": "/min",
+		"ja-jp": "/分"
+	}
+}

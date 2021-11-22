@@ -13,6 +13,7 @@ var NAMES_DATA = [];
 
 jQuery(function () {
 
+    // 素材データの読み込み
     $.getJSON("data/materials.json", function (data) {
         var jqObj;
 
@@ -20,8 +21,8 @@ jQuery(function () {
 
         MATERIALS_DATA.forEach(function (me) {
 
-            // 英語名称をIDから登録
-            me.name["en-us"] = me.id;
+            //// 英語名称をIDから登録
+            //me.name["en-us"] = me.id;
 
             // 自身を素材とする製品の登録
             MATERIALS_DATA.forEach(function (material) {
@@ -34,8 +35,9 @@ jQuery(function () {
                 }
             });
 
+            // ローカル名を取得
             me.localName = function () {
-                return this.name[LANG];
+                return getLocalName(me.name, LANG);
             };
 
         });
@@ -54,14 +56,20 @@ jQuery(function () {
 
     });
 
+    // 設備データの読み込み
     $.getJSON("data/equipments.json", function (data) {
 
         EQUIPMENTS_DATA = data;
 
         EQUIPMENTS_DATA.forEach(function (me) {
 
-            // 英語名称をIDから登録
-            me.name["en-us"] = me.id;
+            //// 英語名称をIDから登録
+            //me.name["en-us"] = me.id;
+
+            // ローカル名を取得
+            me.localName = function () {
+                return getLocalName(me.name, LANG);
+            };
 
         });
         
@@ -302,8 +310,8 @@ function getMaterialName(targetId) {
 
     var material = getMaterialData(targetId);
 
-    if (material != undefined) {
-        return material.name[LANG];
+    if (material !== undefined) {
+        return material.localName();
     }
     else {
         return "undefined";
@@ -326,11 +334,32 @@ function getEquipmentName(targetId) {
 
     var equipment = getEquipmentData(targetId);
 
-    if (equipment != undefined) {
-        return equipment.name[LANG];
+    if (equipment !== undefined) {
+        return equipment.localName();
     }
     else {
         return "undefined";
+    }
+
+}
+
+// ローカル名を取得
+function getLocalName(nameId, language) {
+
+    if (NAMES_DATA[nameId] !== undefined) {
+
+        if (NAMES_DATA[nameId][language] !== undefined) {
+
+            return NAMES_DATA[nameId][language];
+        }
+        else {
+
+            return nameId;
+        }
+    }
+    else {
+
+        return nameId;
     }
 
 }

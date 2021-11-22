@@ -24,6 +24,22 @@
         "powerConsumption": 0
     },
     {
+        "id": "Miner",
+        "name": {
+            "ja-jp": "採鉱機"
+        },
+        "icon": "Miner.png",
+        "powerConsumption": 5,
+        "levels": [
+            {
+                "name": "Equipments/Miner Mk.1",
+                "icon": "MinerMk1.png",
+                "powerConsumption": 5
+            }
+
+        ]
+    },
+    {
         "id": "Miner Mk1",
         "name": {
             "ja-jp": "Miner Mk1"

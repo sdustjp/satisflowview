@@ -1,42 +1,183 @@
 {
-	"Materials/Iron Ore": {
-		"en-us": "Iron Ore",
+	"Iron Ore": {
 		"ja-jp": "鉄鉱石"
 	},
-	"Materials/Copper Ore": {
-		"en-us": "Copper Ore",
+	"Copper Ore": {
 		"ja-jp": "銅の鉱石"
 	},
-	"Materials/Limestone": {
-		"en-us": "Limestone",
+	"Limestone": {
 		"ja-jp": "石灰岩"
 	},
-	"Materials/Caterium Ore": {
-		"en-us": "Caterium Ore",
+	"Caterium Ore": {
 		"ja-jp": "カテリウムの鉱石"
 	},
-	"Materials/Coal": {
-		"en-us": "Coal",
+	"Coal": {
 		"ja-jp": "石炭"
 	},
-	"Materials/Iron Ingot": {
-		"en-us": "Iron Ingot",
+	"Crude Oil": {
+		"ja-jp": "原油"
+	},
+	"Leaves": {
+		"ja-jp": "葉"
+	},
+	"Wood": {
+		"ja-jp": "木"
+	},
+	"Flower Petals": {
+		"ja-jp": "花弁"
+	},
+	"Alien Carapace": {
+		"ja-jp": "異星生物甲殻"
+	},
+	"Green Power Slug": {
+		"ja-jp": "緑のパワー・スラッグ"
+	},
+	"Iron Ingot": {
 		"ja-jp": "鉄のインゴット"
 	},
-	"Materials/Iron Plate": {
-		"en-us": "Iron Plate",
+	"Iron Plate": {
 		"ja-jp": "鉄板"
 	},
-	"Equipments/Miner": {
-		"en-us": "Miner",
+	"Iron Rod": {
+		"ja-jp": "鉄のロッド"
+	},
+	"Copper Ingot": {
+		"ja-jp": "銅のインゴット"
+	},
+	"Wire": {
+		"ja-jp": "ワイヤー"
+	},
+	"Cable": {
+		"ja-jp": "ケーブル"
+	},
+	"Biomass": {
+		"ja-jp": "バイオマス"
+	},
+	"Biomass (Leaves)": {
+		"ja-jp": "バイオマス(葉)"
+	},
+	"Concrete": {
+		"ja-jp": "コンクリート"
+	},
+	"Screw": {
+		"ja-jp": "ネジ"
+	},
+	"Reinforced Iron Plate": {
+		"ja-jp": "強化鉄板"
+	},
+	"Biomass (Wood)": {
+		"ja-jp": "バイオマス(木)"
+	},
+	"Biofuel": {
+		"ja-jp": "バイオ燃料"
+	},
+	"Rotor": {
+		"ja-jp": "ローター"
+	},
+	"Modular Frame": {
+		"ja-jp": "モジュラー・フレーム"
+	},
+	"Power Shard (1)": {
+		"ja-jp": "パワーシャード (1)"
+	},
+	"Color Cartridge": {
+		"ja-jp": "カラー弾薬"
+	},
+	"Spiked Rebar": {
+		"ja-jp": "断裂鉄筋"
+	},
+	"Biomass (Alien Carapace)": {
+		"ja-jp": "バイオマス(異星生物甲殻)"
+	},
+	"Caterium Ingot": {
+		"ja-jp": "カテリウムのインゴット"
+	},
+	"Quickwire": {
+		"ja-jp": "クイックワイヤー"
+	},
+	"Steel Ingot": {
+		"ja-jp": "鋼のインゴット"
+	},
+	"Steel Beam": {
+		"ja-jp": "鋼梁"
+	},
+	"Steel Pipe": {
+		"ja-jp": "鋼のパイプ"
+	},
+	"Encased Industrial Beam": {
+		"ja-jp": "コンクリート被覆型鋼梁"
+	},
+	"Stator": {
+		"ja-jp": "固定子"
+	},
+	"Motor": {
+		"ja-jp": "モーター"
+	},
+	"Heavy Modular Frame": {
+		"ja-jp": "ヘビー・モジュラー・フレーム"
+	},
+	"Plastic": {
+		"ja-jp": "プラスチック"
+	},
+	"Fuel": {
+		"ja-jp": "燃料"
+	},
+	"Rubber": {
+		"ja-jp": "ゴム"
+	},
+	"Hand": {
+		"ja-jp": "手"
+	},
+	"Craft Bench": {
+		"ja-jp": "工作台"
+	},
+	"Equipment Workshop": {
+		"ja-jp": "装備品作業場"
+	},
+	"Miner": {
 		"ja-jp": "採鉱機"
 	},
-	"Equipments/Miner Mk.1": {
-		"en-us": "Miner Mk.1",
+	"Miner Mk.1": {
 		"ja-jp": "採鉱機 Mk.1"
 	},
-	"Units/perMinutes": {
+	"Smelter": {
+		"ja-jp": "製錬炉"
+	},
+	"Foundry": {
+		"ja-jp": "鋳造炉"
+	},
+	"Constructor": {
+		"ja-jp": "製作機"
+	},
+	"Assembler": {
+		"ja-jp": "組立機"
+	},
+	"Manufacturer": {
+		"ja-jp": "製造機"
+	},
+	"Oil Pump": {
+		"ja-jp": "原油ポンプ"
+	},
+	"Oil Refinery": {
+		"ja-jp": "精油施設"
+	},
+	"Packager": {
+		"ja-jp": "充填機"
+	},
+	"seconds": {
+		"en-us": "sec",
+		"ja-jp": "秒"
+	},
+	"minutes": {
+		"en-us": "min",
+		"ja-jp": "分"
+	},
+	"perMinutes": {
 		"en-us": "/min",
 		"ja-jp": "/分"
+	},
+	"m3PerMinutes": {
+		"en-us": "m^3/min",
+		"ja-jp": "m^3/分"
 	}
 }

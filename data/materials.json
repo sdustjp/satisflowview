@@ -2,7 +2,7 @@
     {
         "category": "resource",
         "id": "Iron Ore",
-        "name": "Materials/Iron Ore",
+        "name": "Iron Ore",
         "icon": "o_iron.jpg",
         "handmadeTime": 0,
         "craftingTime": 1,
@@ -14,9 +14,7 @@
     {
         "category": "resource",
         "id": "Copper Ore",
-        "name": {
-            "ja-jp": "銅の鉱石"
-        },
+        "name": "Copper Ore",
         "icon": "o_copper.jpg",
         "handmadeTime": 0,
         "craftingTime": 1,
@@ -28,9 +26,7 @@
     {
         "category": "resource",
         "id": "Limestone",
-        "name": {
-            "ja-jp": "石灰岩"
-        },
+        "name": "Limestone",
         "icon": "o_limestone.jpg",
         "handmadeTime": 0,
         "craftingTime": 1,
@@ -42,9 +38,7 @@
     {
         "category": "resource",
         "id": "Caterium Ore",
-        "name": {
-            "ja-jp": "カテリウムの鉱石"
-        },
+        "name": "Caterium Ore",
         "icon": "o_caterium.jpg",
         "handmadeTime": 0,
         "craftingTime": 1,
@@ -56,9 +50,7 @@
     {
         "category": "resource",
         "id": "Coal",
-        "name": {
-            "ja-jp": "石炭"
-        },
+        "name": "Coal",
         "icon": "o_coal.jpg",
         "handmadeTime": 0,
         "craftingTime": 1,
@@ -70,9 +62,7 @@
     {
         "category": "resource",
         "id": "Crude Oil",
-        "name": {
-            "ja-jp": "原油"
-        },
+        "name": "Crude Oil",
         "icon": "o_crude_oil.jpg",
         "handmadeTime": 0,
         "craftingTime": 0.5,
@@ -84,9 +74,7 @@
     {
         "category": "resource",
         "id": "Leaves",
-        "name": {
-            "ja-jp": "葉"
-        },
+        "name": "Leaves",
         "icon": "m_leaves.jpg",
         "handmadeTime": 0,
         "craftingTime": 0,
@@ -98,9 +86,7 @@
     {
         "category": "resource",
         "id": "Wood",
-        "name": {
-            "ja-jp": "木"
-        },
+        "name": "Wood",
         "icon": "m_wood.jpg",
         "handmadeTime": 0,
         "craftingTime": 0,
@@ -112,9 +98,7 @@
     {
         "category": "resource",
         "id": "Flower Petals",
-        "name": {
-            "ja-jp": "花弁"
-        },
+        "name": "Flower Petals",
         "icon": "FlowerPetals.jpg",
         "handmadeTime": 0,
         "craftingTime": 0,
@@ -126,9 +110,7 @@
     {
         "category": "resource",
         "id": "Alien Carapace",
-        "name": {
-            "ja-jp": "異星生物甲殻"
-        },
+        "name": "Alien Carapace",
         "icon": "m_carapace.jpg",
         "handmadeTime": 0,
         "craftingTime": 0,
@@ -140,9 +122,7 @@
     {
         "category": "resource",
         "id": "Green Power Slug",
-        "name": {
-            "ja-jp": "緑のパワー・スラッグ"
-        },
+        "name": "Green Power Slug",
         "icon": ".jpg",
         "handmadeTime": 0,
         "craftingTime": 0,
@@ -154,7 +134,7 @@
     {
         "category": "material",
         "id": "Iron Ingot",
-        "name": "Materials/Iron Ingot",
+        "name": "Iron Ingot",
         "icon": "r_iron_ingot.jpg",
         "handmadeTime": 2,
         "craftingTime": 2,
@@ -182,9 +162,7 @@
     {
         "category": "material",
         "id": "Iron Rod",
-        "name": {
-            "ja-jp": "鉄のロッド"
-        },
+        "name": "Iron Rod",
         "icon": "r_iron_rod.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,
@@ -198,9 +176,7 @@
     {
         "category": "material",
         "id": "Copper Ingot",
-        "name": {
-            "ja-jp": "銅のインゴット"
-        },
+        "name": "Copper Ingot",
         "icon": "r_copper_ingot.jpg",
         "handmadeTime": 2,
         "craftingTime": 2,
@@ -214,9 +190,7 @@
     {
         "category": "material",
         "id": "Wire",
-        "name": {
-            "ja-jp": "ワイヤー"
-        },
+        "name": "Wire",
         "icon": "r_wire.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,
@@ -230,9 +204,7 @@
     {
         "category": "material",
         "id": "Cable",
-        "name": {
-            "ja-jp": "ケーブル"
-        },
+        "name": "Cable",
         "icon": "r_cable.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,
@@ -246,9 +218,7 @@
     {
         "category": "material",
         "id": "Biomass",
-        "name": {
-            "ja-jp": "バイオマス"
-        },
+        "name": "Biomass",
         "icon": "r_biomass.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,
@@ -262,9 +232,7 @@
     {
         "category": "material",
         "id": "Biomass (Leaves)",
-        "name": {
-            "ja-jp": "バイオマス(葉)"
-        },
+        "name": "Biomass (Leaves)",
         "icon": "r_biomass.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,
@@ -278,9 +246,7 @@
     {
         "category": "material",
         "id": "Concrete",
-        "name": {
-            "ja-jp": "コンクリート"
-        },
+        "name": "Concrete",
         "icon": "r_concrete.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,
@@ -294,9 +260,7 @@
     {
         "category": "material",
         "id": "Screw",
-        "name": {
-            "ja-jp": "ネジ"
-        },
+        "name": "Screw",
         "icon": "r_screw.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,
@@ -310,9 +274,7 @@
     {
         "category": "material",
         "id": "Reinforced Iron Plate",
-        "name": {
-            "ja-jp": "強化鉄板"
-        },
+        "name": "Reinforced Iron Plate",
         "icon": "r_reinforced_iron_plate.jpg",
         "handmadeTime": 3,
         "craftingTime": 12,
@@ -327,9 +289,7 @@
     {
         "category": "material",
         "id": "Biomass (Wood)",
-        "name": {
-            "ja-jp": "バイオマス(木)"
-        },
+        "name": "Biomass (Wood)",
         "icon": "r_biomass.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,
@@ -343,9 +303,7 @@
     {
         "category": "material",
         "id": "Biofuel",
-        "name": {
-            "ja-jp": "バイオ燃料"
-        },
+        "name": "Biofuel",
         "icon": "r_bio_fuel.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,
@@ -359,9 +317,7 @@
     {
         "category": "material",
         "id": "Rotor",
-        "name": {
-            "ja-jp": "ローター"
-        },
+        "name": "Rotor",
         "icon": "r_rotor.jpg",
         "handmadeTime": 3,
         "craftingTime": 10,
@@ -376,9 +332,7 @@
     {
         "category": "material",
         "id": "Modular Frame",
-        "name": {
-            "ja-jp": "モジュラーフレーム"
-        },
+        "name": "Modular Frame",
         "icon": "r_modular_frame.jpg",
         "handmadeTime": 4,
         "craftingTime": 15,
@@ -393,9 +347,7 @@
     {
         "category": "material",
         "id": "Power Shard (1)",
-        "name": {
-            "ja-jp": "パワーシャード (1)"
-        },
+        "name": "Power Shard (1)",
         "icon": "r_power_shard.jpg",
         "handmadeTime": 3,
         "craftingTime": 10,
@@ -409,9 +361,7 @@
     {
         "category": "material",
         "id": "Color Cartridge",
-        "name": {
-            "ja-jp": "カラー弾薬"
-        },
+        "name": "Color Cartridge",
         "icon": "r_color_cartridge.jpg",
         "handmadeTime": 10,
         "craftingTime": 40,
@@ -425,9 +375,7 @@
     {
         "category": "material",
         "id": "Spiked Rebar",
-        "name": {
-            "ja-jp": "断裂鉄筋"
-        },
+        "name": "Spiked Rebar",
         "icon": "r_spiked_rebar.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,
@@ -441,9 +389,7 @@
     {
         "category": "material",
         "id": "Biomass (Alien Carapace)",
-        "name": {
-            "ja-jp": "バイオマス(異星生物甲殻)"
-        },
+        "name": "Biomass (Alien Carapace)",
         "icon": "r_biomass.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,
@@ -457,9 +403,7 @@
     {
         "category": "material",
         "id": "Caterium Ingot",
-        "name": {
-            "ja-jp": "カテリウムのインゴット"
-        },
+        "name": "Caterium Ingot",
         "icon": "r_caterium_ingot.jpg",
         "handmadeTime": 4,
         "craftingTime": 4,
@@ -473,9 +417,7 @@
     {
         "category": "material",
         "id": "Quickwire",
-        "name": {
-            "ja-jp": "クイックワイヤー"
-        },
+        "name": "Quickwire",
         "icon": "r_quickwire.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,
@@ -489,9 +431,7 @@
     {
         "category": "material",
         "id": "Steel Ingot",
-        "name": {
-            "ja-jp": "鋼のインゴット"
-        },
+        "name": "Steel Ingot",
         "icon": "r_steel_ingot.jpg",
         "handmadeTime": 0,
         "craftingTime": 4,
@@ -506,9 +446,7 @@
     {
         "category": "material",
         "id": "Steel Beam",
-        "name": {
-            "ja-jp": "Steel Beam"
-        },
+        "name": "Steel Beam",
         "icon": "r_steel_beam.jpg",
         "handmadeTime": 2,
         "craftingTime": 6,
@@ -522,9 +460,7 @@
     {
         "category": "material",
         "id": "Steel Pipe",
-        "name": {
-            "ja-jp": "鋼のパイプ"
-        },
+        "name": "Steel Pipe",
         "icon": "r_steel_pipe.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,
@@ -538,9 +474,7 @@
     {
         "category": "material",
         "id": "Encased Industrial Beam",
-        "name": {
-            "ja-jp": "Encased Industrial Beam"
-        },
+        "name": "Encased Industrial Beam",
         "icon": "r_encased_industrial_beam.jpg",
         "handmadeTime": 4,
         "craftingTime": 15,
@@ -555,9 +489,7 @@
     {
         "category": "material",
         "id": "Stator",
-        "name": {
-            "ja-jp": "固定子"
-        },
+        "name": "Stator",
         "icon": "r_stator.jpg",
         "handmadeTime": 3,
         "craftingTime": 10,
@@ -572,9 +504,7 @@
     {
         "category": "material",
         "id": "Motor",
-        "name": {
-            "ja-jp": "モーター"
-        },
+        "name": "Motor",
         "icon": "r_motor.jpg",
         "handmadeTime": 3,
         "craftingTime": 12,
@@ -589,9 +519,7 @@
     {
         "category": "material",
         "id": "Heavy Modular Frame",
-        "name": {
-            "ja-jp": "ヘビー・モジュラー・フレーム"
-        },
+        "name": "Heavy Modular Frame",
         "icon": "r_heavy_modular_frame.jpg",
         "handmadeTime": 8,
         "craftingTime": 1,
@@ -608,9 +536,7 @@
     {
         "category": "material",
         "id": "Plastic",
-        "name": {
-            "ja-jp": "プラスチック"
-        },
+        "name": "Plastic",
         "icon": "r_plastic.jpg",
         "handmadeTime": 2,
         "craftingTime": 8,
@@ -624,9 +550,7 @@
     {
         "category": "material",
         "id": "Fuel",
-        "name": {
-            "ja-jp": "燃料"
-        },
+        "name": "Fuel",
         "icon": "r_fuel.jpg",
         "handmadeTime": 2,
         "craftingTime": 8,
@@ -640,9 +564,7 @@
     {
         "category": "material",
         "id": "Rubber",
-        "name": {
-            "ja-jp": "ゴム"
-        },
+        "name": "Rubber",
         "icon": "r_rubber.jpg",
         "handmadeTime": 2,
         "craftingTime": 8,

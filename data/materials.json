@@ -2,9 +2,7 @@
     {
         "category": "resource",
         "id": "Iron Ore",
-        "name": {
-            "ja-jp": "鉄鉱石"
-        },
+        "name": "Materials/Iron Ore",
         "icon": "o_iron.jpg",
         "handmadeTime": 0,
         "craftingTime": 1,
@@ -156,9 +154,7 @@
     {
         "category": "material",
         "id": "Iron Ingot",
-        "name": {
-            "ja-jp": "鉄のインゴット"
-        },
+        "name": "Materials/Iron Ingot",
         "icon": "r_iron_ingot.jpg",
         "handmadeTime": 2,
         "craftingTime": 2,
@@ -172,9 +168,7 @@
     {
         "category": "material",
         "id": "Iron Plate",
-        "name": {
-            "ja-jp": "鉄板"
-        },
+        "name": "Iron Plate",
         "icon": "r_iron_plate.jpg",
         "handmadeTime": 1,
         "craftingTime": 4,

@@ -8,6 +8,9 @@ var MATERIALS_DATA = [];
 // 設備データ
 var EQUIPMENTS_DATA = [];
 
+// 名前データ
+var NAMES_DATA = [];
+
 jQuery(function () {
 
     $.getJSON("data/materials.json", function (data) {
@@ -64,6 +67,13 @@ jQuery(function () {
         
     });
 
+    // 名称データの読み込み
+    $.getJSON("data/names.json", function (data) {
+
+        NAMES_DATA = data;
+
+    });
+
 
     // 対象素材変更時
     $("#selectTargetMaterial").change(function (ev) {
@@ -101,7 +111,7 @@ function updateMaterialInfo(target) {
 
         // 原材料ツリー表示
         viewRawMaterials(target, $("#rawMaterials > div.rawMaterialsList"));
-    
+
         // 対象の素材情報表示
         viewMaterialInfo(target, $("#targetMaterialInfo"));
 

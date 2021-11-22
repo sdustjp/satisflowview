@@ -1,0 +1,27 @@
+[
+	{
+		"id": "Conveyor Belt Mk.1",
+		"name": {"ja-jp": "コンベア・ベルト Mk.1"},
+		"transportSpeed":60
+	},
+	{
+		"id": "Conveyor Belt Mk.2",
+		"name": {"ja-jp": "コンベア・ベルト Mk.2"},
+		"transportSpeed":120
+	},
+	{
+		"id": "Conveyor Belt Mk.3",
+		"name": {"ja-jp": "コンベア・ベルト Mk.3"},
+		"transportSpeed":270
+	},
+	{
+		"id": "Conveyor Belt Mk.4",
+		"name": {"ja-jp": "コンベア・ベルト Mk.4"},
+		"transportSpeed":480
+	},
+	{
+		"id": "Conveyor Belt Mk.5",
+		"name": {"ja-jp": "コンベア・ベルト Mk.5"},
+		"transportSpeed":120
+	}
+]

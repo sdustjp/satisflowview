@@ -8,6 +8,22 @@
         "powerConsumption": 0
     },
     {
+        "id": "Craft Bench",
+        "name": {
+            "ja-jp": "工作台"
+        },
+        "icon": "CraftBench.png",
+        "powerConsumption": 0
+    },
+    {
+        "id": "Equipment Workshop",
+        "name": {
+            "ja-jp": "装備品作業台"
+        },
+        "icon": "EquipmentWorkshop.png",
+        "powerConsumption": 0
+    },
+    {
         "id": "Miner Mk1",
         "name": {
             "ja-jp": "Miner Mk1"
@@ -70,5 +86,13 @@
         },
         "icon": "OilRefinery.png",
         "powerConsumption": 50
+    },
+    {
+        "id": "juten",
+        "name": {
+            "ja-jp": "充填機"
+        },
+        "icon": "juten.png",
+        "powerConsumption": 999
     }
 ]
